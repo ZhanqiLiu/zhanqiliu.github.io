@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: minimal-mistakes-jekyll
 title: Dive in AI
 email: zhanqiliu.88@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -61,7 +60,7 @@ plugins:
 author:
   name   : "Zhanqi Liu"
   avatar : "/assets/images/1de62510f2656fa3ca9744c888e27104.JPG"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A team lead in Tencent for data mining and ML platform development"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
